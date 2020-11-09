@@ -1,0 +1,10 @@
+C:\Users\phili\source\repos\JohnHallstrom\CSharpLaboration5\CSharp -  Laboration 5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\phili\source\repos\JohnHallstrom\CSharpLaboration5\CSharp -  Laboration 5\obj\Debug\CSharp____Laboration_5.Properties.Resources.resources
+C:\Users\phili\source\repos\JohnHallstrom\CSharpLaboration5\CSharp -  Laboration 5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\phili\source\repos\JohnHallstrom\CSharpLaboration5\CSharp -  Laboration 5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\JohnHallstrom\CSharpLaboration5\CSharp -  Laboration 5\obj\Debug\CSharp -  Laboration 5.exe
+C:\Users\phili\source\repos\JohnHallstrom\CSharpLaboration5\CSharp -  Laboration 5\obj\Debug\CSharp -  Laboration 5.pdb
+C:\Users\phili\source\repos\JohnHallstrom\CSharpLaboration5\CSharp -  Laboration 5\bin\Debug\CSharp -  Laboration 5.exe.config
+C:\Users\phili\source\repos\JohnHallstrom\CSharpLaboration5\CSharp -  Laboration 5\bin\Debug\CSharp -  Laboration 5.exe
+C:\Users\phili\source\repos\JohnHallstrom\CSharpLaboration5\CSharp -  Laboration 5\bin\Debug\CSharp -  Laboration 5.pdb
+C:\Users\phili\source\repos\JohnHallstrom\CSharpLaboration5\CSharp -  Laboration 5\obj\Debug\lab5.FormImageScraper.resources
